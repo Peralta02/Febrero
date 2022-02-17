@@ -1,5 +1,5 @@
 Los  Estado de archivo:
-Untracket: El archivo se encuentra guardado solo de manera local
+Untracked: El archivo se encuentra guardado solo de manera local
 Commited: Ya se ha hecho un commit en el archivo
-Modificate: Se ha modificado el archivo con "git add" 
-Stanged: El archivo está en el area de preparación 
+Modificate: Se ha modificado el archivo clonado
+Stanged: El archivo está en el area de preparación con "git add" listo para el siguiente commit
